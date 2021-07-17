@@ -1,5 +1,4 @@
-{
-  "posts": [
+ [
     {
       "name": "Sanskar",
       "contents": "Hello...\n",
@@ -19,4 +18,3 @@
       "id": 4
     }
   ]
-}
