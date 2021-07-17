@@ -2,19 +2,20 @@
     {
       "name": "Sanskar",
       "contents": "Hello...\n",
-      "id": 2,
+      "id": 1,
       "likes": 0
     },
     {
       "name": "Sanskar",
       "contents": "jas.dkjnd,s",
-      "likes": 0,
-      "id": 3
+      "id": 2,
+      "likes": 0
+      
     },
     {
       "name": "Sanskar",
       "contents": "wshats",
-      "likes": 0,
-      "id": 4
+      "id": 3,
+      "likes": 0
     }
   ]
